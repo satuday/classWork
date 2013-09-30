@@ -1,8 +1,36 @@
+header {
+    margin: 10px auto;
+    padding: 5px 5px 5px 100px;
+
+}
 body {
+    padding:3em;
+
+}
+.content{
+    
 }
 
-.h1 {
-font-family: Arial, sans-serif;
+h1 {
+font-family: Calibri, 'Curlz MT','Felix Titling';
 border-color: #f00;
-font-size: x-large;
+color: #0094ff;
+font-size: 72px;
+font-style: italic;
+}
+
+h3{
+    font-family: 'Comic Sans MS';
+    font-size: 42px;
+    font-weight: 900;
+}
+.navBar{
+    text-align: left;
+    vertical-align: top;
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+}
+.map{
+
 }
